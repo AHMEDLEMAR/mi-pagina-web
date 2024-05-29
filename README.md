@@ -1,4 +1,3 @@
-# mi-pagina-web
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,13 +17,18 @@
           <li class="dropdown">
             <a href="semaforo.html.html" class="dropbtn">SEMAFORO</a>
             <div class="dropdown-content">
-              <a href="semaforo_investigacion.html">INVESTIGACION</a>
-              <a href="semaforo_ideacion.html.html">IDEACION</a>
-              <a href="semaforo_planteamiento.html">PLANTEAMIENTO</a>
+               <a href="semaforo_planteamiento.html">PLANTEAMIENTO</a>
+               <a href="semaforo_investigacion.html">INVESTIGACION</a>
+              <a href="semaforo_ideacion.html.html">IDEAS</a>
+              <a href="semaforo memoria.html.html">DISEÑO</a>
+              <a href="semaforo_planificacion.html.html">PLANIFICACIÓN</a>
               <a href="semaforo_construccion.html">CONSTRUCCION</a>
-            </div>
-          </li>
-        </ul>
+     </div>
+           </li>
+          </ul>
+            
+     
+        
      
      
 
